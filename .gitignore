@@ -1,0 +1,13 @@
+# Ignore everything
+*
+!*/
+
+# Except the following
+!*.yaml
+!.gitignore
+!*.md
+
+# But be sure to ignore these to avoid disasters
+ip_bans.yaml
+secrets.yaml
+known_devices.yaml
