@@ -1,0 +1,2 @@
+shell_command.config_reset_local_changes: git reset --hard
+shell_command.config_get_latest: git pull
